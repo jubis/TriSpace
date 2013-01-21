@@ -1,4 +1,5 @@
-﻿=TriSpace=
+﻿
+=TriSpace=
 
 Informaatioverkostojen ohjelmointikurssin eli Studio 1:n (T-106.2001) henkilökohtainen projektityö. Koko koodi on
 Javaa (versio 7). Projekti on laajuudeltaan noin 80 tuntia. Sen toteuttamiseen on käytetty 
