@@ -9,3 +9,7 @@ LWJGL-grafiikkakirjastoon perustuvaa Slick2D-pelikirjastoa.
 
 Kyseessä on peli, jossa lennellään avaruudessa ja tuhotaan asteroideja. Peli on ulkoasultaan
 yksinkertaista viivagrafiikkaa partikkeliefekteillä höystettynä.
+
+==Commiteista==
+Valitettavasti en käyttänyt projektin aikana Gittiä, joten committien avulla ei pysty seuraamaan työn edistymistä.
+Nyt kuitenkin koko koodi löytyy täältä.
