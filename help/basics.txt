@@ -1,0 +1,12 @@
+﻿@@Basics@@
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Etiam rutrum molestie ultrices. Cras ac mi velit. Duis dapibus nunc in felis 
+scelerisque sit amet tristique odio sagittis. Cum sociis natoque penatibus 
+et magnis dis parturient montes, nascetur ridiculus mus. \n
+Class aptent taciti 
+sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+Curabitur ultricies nulla in leo commodo rhoncus. Praesent bibendum facilisis 
+lorem, at tempor tortor feugiat nec. \n
+Phasellus ultricies, libero quis feugiat 
+euismod, dolor urna fringilla tortor, quis dignissim eros tortor ac enim. 
+Sed a scelerisque odio. Praesent vitae auctor nisi. 
