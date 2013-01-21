@@ -161,3 +161,13 @@ pip-log.txt
 
 # Mac crap
 .DS_Store
+
+# JavaDoc
+*.html
+*.css
+
+# Useless stuff
+/doc
+/source and stuff
+/readme.txt
+/start.sh
